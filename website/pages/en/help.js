@@ -33,7 +33,7 @@ class Help extends React.Component {
         content: (
           <translate>
             Ask questions and find answers from other Jest users like you.\n\n-
-            Join the [#jest](https://discord.gg/MWRhKCj) channel on
+            Join the [#jest](https://discord.gg/Zy5BHsD) channel on
             [Reactiflux](http://www.reactiflux.com/), a Discord community.\n-
             Many members of the community use Stack Overflow. Read through the
             [existing

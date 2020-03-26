@@ -211,7 +211,7 @@ Facebook has a [bounty program](https://www.facebook.com/whitehat/) for the safe
 
 ## How to Get in Touch
 
-- Discord - [#jest](https://discord.gg/MWRhKCj) on [Reactiflux](http://www.reactiflux.com/)
+- Discord - [#jest](https://discord.gg/Zy5BHsD) on [Reactiflux](http://www.reactiflux.com/)
 
 ## Code Conventions
 
